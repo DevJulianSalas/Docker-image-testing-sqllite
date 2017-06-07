@@ -9,6 +9,7 @@ RUN apk update && apk add sqlite socat
 ENV SQLDBNAME=testing.db
 
 
+
 #################### Dir #######################
 
 RUN mkdir /db
