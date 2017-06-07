@@ -10,7 +10,7 @@ ENV SQLDBNAME=testing.db
 
 
 
-#################### Dir #######################
+#################### DirWork #######################
 
 RUN mkdir /db
 WORKDIR /db
